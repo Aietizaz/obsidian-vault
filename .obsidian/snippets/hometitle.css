@@ -1,0 +1,179 @@
+.homepage .inline-title {
+  display: none;
+}
+
+.homepage .markdown-preview-sizer {
+  max-width: 100% !important;
+}
+
+.homepage .metadata-container,
+.homepage .metadata-properties,
+.homepage .metadata-add-button,
+.homepage .metadata-property,
+.homepage .metadata-property-key,
+.homepage .metadata-property-value {
+  display: none !important;
+}
+
+.homepage .cm-editor .metadata-container,
+.homepage .cm-editor .metadata-properties,
+.homepage .cm-editor .metadata-add-button {
+  display: none !important;
+}
+
+.homepage .markdown-preview-view .metadata-container {
+  display: none !important;
+}
+
+.homepage .home-buttons {
+  width: 85%;
+  margin: 2rem auto 1.75rem auto;
+  padding-top: 1rem;
+
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 14px;
+}
+
+.homepage .home-buttons a,
+.homepage .home-buttons .internal-link {
+  min-height: 54px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 14px;
+
+  background: linear-gradient(
+    180deg,
+    rgba(35, 18, 28, 0.92),
+    rgba(8, 10, 16, 0.96)
+  );
+
+  border: 1px solid rgba(255, 80, 80, 0.22);
+
+  color: #f4e8e8 !important;
+  text-decoration: none !important;
+
+  font-weight: 700;
+  letter-spacing: 0.02em;
+
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.05),
+    0 8px 22px rgba(0, 0, 0, 0.45),
+    0 0 18px rgba(180, 40, 70, 0.08);
+
+  transition: all 0.18s ease;
+}
+
+.homepage .home-buttons a:hover,
+.homepage .home-buttons .internal-link:hover {
+  transform: translateY(-2px);
+
+  color: #ffd7d7 !important;
+
+  border-color: rgba(255, 90, 90, 0.48);
+
+  background: linear-gradient(
+    180deg,
+    rgba(70, 24, 36, 0.96),
+    rgba(14, 12, 22, 0.98)
+  );
+
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.08),
+    0 10px 28px rgba(0, 0, 0, 0.55),
+    0 0 22px rgba(255, 60, 80, 0.18);
+}
+
+.homepage .home-buttons {
+  position: relative;
+  top: 3rem;
+  margin-bottom: 4.75rem;
+}
+
+.homepage .callout[data-callout="multi-column"] {
+  width: 85%;
+  margin: 2rem auto;
+  background: transparent;
+  border: none;
+  box-shadow: none;
+}
+
+.homepage .callout[data-callout="multi-column"] > .callout-title {
+  display: none !important;
+}
+
+.homepage .callout[data-callout="multi-column"] > .callout-content {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+}
+
+.homepage .callout[data-callout="multi-column"] {
+  width: 85% !important;
+}
+
+.homepage .callout[data-callout="recent"],
+.homepage .callout[data-callout="projects"],
+.homepage .callout[data-callout="focus"] {
+  border-radius: 18px;
+  background: linear-gradient(
+    180deg,
+    rgba(35, 18, 28, 0.92),
+    rgba(8, 10, 16, 0.96)
+  );
+
+  border: 1px solid rgba(255, 80, 80, 0.22);
+
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.05),
+    0 8px 22px rgba(0, 0, 0, 0.45),
+    0 0 18px rgba(180, 40, 70, 0.08);
+}
+
+.homepage .callout[data-callout="recent"] .callout-title,
+.homepage .callout[data-callout="projects"] .callout-title,
+.homepage .callout[data-callout="focus"] .callout-title {
+  justify-content: center;
+  text-align: center;
+  color: #ffffff;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
+.homepage .callout[data-callout="recent"] .callout-icon,
+.homepage .callout[data-callout="projects"] .callout-icon,
+.homepage .callout[data-callout="focus"] .callout-icon {
+  display: none;
+}
+
+.homepage .callout[data-callout="focus"] .internal-embed {
+  border: none !important;
+  padding: 0 !important;
+  background: transparent !important;
+}
+
+.homepage
+  .callout[data-callout="multi-column"]
+  .callout[data-callout="recent"]
+  .callout-content,
+.homepage
+  .callout[data-callout="multi-column"]
+  .callout[data-callout="projects"]
+  .callout-content {
+  max-height: 220px !important;
+  overflow-y: auto !important;
+}
+
+.homepage .callout[data-callout="focus"] .markdown-embed,
+.homepage .callout[data-callout="focus"] .markdown-embed-content,
+.homepage .callout[data-callout="focus"] .markdown-preview-view,
+.homepage .callout[data-callout="focus"] .markdown-preview-sizer {
+  min-height: 0 !important;
+  height: auto !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  overflow: visible !important;
+}

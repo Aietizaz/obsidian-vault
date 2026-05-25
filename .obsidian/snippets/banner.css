@@ -1,0 +1,19 @@
+.pixel-banner-image {
+  height: 320px !important;
+  object-fit: cover !important;
+  border-radius: 24px !important;
+  image-rendering: pixelated !important;
+  width: 85% !important;
+  margin-top: 2rem !important;
+  box-shadow: 0 18px 55px rgba(0, 0, 0, 0.42);
+  margin-bottom: 1rem;
+}
+
+.pixel-banner {
+  overflow: hidden;
+  border-radius: 24px;
+}
+
+.homepage .markdown-preview-sizer {
+  padding-top: 320px !important;
+}

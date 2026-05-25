@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Vanilla AMOLED",
+  "enabledCssSnippets": [
+    "dashboard-home",
+    "extended-colorschemes",
+    "banner",
+    "hometitle",
+    "homepage_buttons",
+    "projects"
+  ],
+  "accentColor": "#e8e4e4"
+}

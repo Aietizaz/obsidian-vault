@@ -1,0 +1,122 @@
+{
+  "styles": {
+    "Projects": {
+      "backgroundColor": "#3f5542",
+      "textColor": "#ffffff",
+      "isBold": false,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "Personal": {
+      "backgroundColor": "#5a496e",
+      "textColor": "#ffffff",
+      "isBold": false,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "Finance": {
+      "backgroundColor": "#6e5a3f",
+      "textColor": "#ffffff",
+      "isBold": false,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "Education": {
+      "backgroundColor": "#42556e",
+      "textColor": "#ffffff",
+      "isBold": false,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "Other": {
+      "backgroundColor": "#4d4d4d",
+      "textColor": "#ffffff",
+      "isBold": false,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "Dashboard": {
+      "backgroundColor": "#623540",
+      "textColor": "#ffffff",
+      "isBold": false,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    }
+  },
+  "presets": {
+    "Finance": {
+      "backgroundColor": "#6e5a3f",
+      "textColor": "#ffffff",
+      "isBold": false,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "Personal": {
+      "backgroundColor": "#5a496e",
+      "textColor": "#ffffff",
+      "isBold": false,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "Other": {
+      "backgroundColor": "#4d4d4d",
+      "textColor": "#ffffff",
+      "isBold": false,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "Education": {
+      "backgroundColor": "#42556e",
+      "textColor": "#ffffff",
+      "isBold": false,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "Projects": {
+      "backgroundColor": "#3f5542",
+      "textColor": "#ffffff",
+      "isBold": false,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "Dashboard": {
+      "backgroundColor": "#623540",
+      "textColor": "#ffffff",
+      "isBold": false,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    }
+  },
+  "presetOrder": [
+    "Finance",
+    "Personal",
+    "Other",
+    "Education",
+    "Projects",
+    "Dashboard"
+  ]
+}

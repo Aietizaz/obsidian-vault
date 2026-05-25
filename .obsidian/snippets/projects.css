@@ -1,0 +1,6 @@
+.project-note .metadata-container,
+.project-note .metadata-properties,
+.project-note .metadata-property,
+.project-note .metadata-add-button {
+  display: none !important;
+}

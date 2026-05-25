@@ -1,0 +1,104 @@
+/* Obsidian Dashboard Homepage CSS
+   Place this file in: .obsidian/snippets/dashboard-home.css
+   Then enable it in Settings → Appearance → CSS snippets.
+*/
+
+.dashboard-home {
+  --dash-radius: 18px;
+  --dash-border: 1px solid var(--background-modifier-border);
+}
+
+.dashboard-home .markdown-preview-section,
+.dashboard-home .cm-content {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.dashboard-home h1 {
+  font-size: 2.4rem;
+  letter-spacing: -0.04em;
+  margin-bottom: 0.2em;
+}
+
+.dashboard-home h2 {
+  margin-top: 2em;
+  padding-bottom: 0.3em;
+  border-bottom: var(--dash-border);
+}
+
+.dashboard-home .dash-hero {
+  min-height: 190px;
+  border-radius: 26px;
+  padding: 32px;
+  margin: 18px 0 28px;
+  display: flex;
+  align-items: flex-end;
+  background:
+    linear-gradient(135deg, rgba(125, 95, 255, 0.28), rgba(0, 0, 0, 0.15)),
+    radial-gradient(circle at top right, rgba(255, 255, 255, 0.2), transparent 35%),
+    var(--background-secondary);
+  border: var(--dash-border);
+  box-shadow: 0 18px 45px rgba(0, 0, 0, 0.18);
+}
+
+.dashboard-home .dash-hero h1,
+.dashboard-home .dash-hero p {
+  margin: 0;
+}
+
+.dashboard-home .dash-hero p:last-child {
+  max-width: 620px;
+  margin-top: 8px;
+  color: var(--text-muted);
+}
+
+.dashboard-home .dash-kicker {
+  font-size: 0.75rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--text-accent);
+  font-weight: 700;
+}
+
+.dashboard-home .dash-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 14px;
+  margin: 16px 0;
+}
+
+.dashboard-home .dash-grid > .callout {
+  margin: 0;
+  min-height: 120px;
+  border-radius: var(--dash-radius);
+  border: var(--dash-border);
+  background: var(--background-secondary);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.08);
+}
+
+.dashboard-home .dash-actions > .callout {
+  transition: transform 120ms ease, box-shadow 120ms ease;
+}
+
+.dashboard-home .dash-actions > .callout:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.14);
+}
+
+.dashboard-home .dash-links ul {
+  margin-top: 8px;
+}
+
+.dashboard-home .callout-title {
+  font-weight: 800;
+}
+
+.dashboard-home hr {
+  border: none;
+  border-top: var(--dash-border);
+  margin: 28px 0;
+}
+
+.dashboard-home pre {
+  border-radius: 14px;
+}

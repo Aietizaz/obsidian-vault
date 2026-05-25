@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff8abd86d839b597",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard/Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b4a86c22e17384e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3e39ac85732d1c2",
+        "type": "tabs",
+        "dimension": 75.68569310600445,
+        "children": [
+          {
+            "id": "da1ae387f89dc8d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "14e1b519f4a1b1fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0c994cc570656fed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5ff4f676b398dd62",
+        "type": "tabs",
+        "dimension": 24.314306893995553,
+        "children": [
+          {
+            "id": "54c78183e50736a8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "right": {
+    "id": "0850a0ae4c949eb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c54fa845c6fcc0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa0c24ada98cacc3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
+            }
+          },
+          {
+            "id": "aa39539ee77fc5eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
+            }
+          },
+          {
+            "id": "52d92a973452f369",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a10e4f2927bfb211",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c02e5ac4b312f582",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          },
+          {
+            "id": "3df50b2b54304e4c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "383804002f81cfaf",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "881f08d11f9c62d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Dashboard/Home.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Home"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "github-sync:Sync with Remote": false,
+      "flashcard-learning:Review flashcards": false,
+      "terminal:Open terminal": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "copilot:Open Copilot Chat": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "da1ae387f89dc8d8",
+  "lastOpenFiles": [
+    "Dashboard/Focus.md",
+    "Dashboard/Home.md",
+    "Projects/Moodish/Moodish Design.md",
+    "Education/Think Python/The Way of The Program.md",
+    "Education/Think Python/Think Python.md",
+    "Other/Other.md",
+    "Other/Scratchpad.md",
+    "Finance/Finance Dashboard.md",
+    "Education/Learning Hub.md",
+    "Projects/Project Hub.md",
+    "Personal/Personal Hub.md",
+    "Personal",
+    "Home.md",
+    "Inbox/Quick Capture.md",
+    "Projects/Moodish/Active.md",
+    "Dashboard",
+    "2026-05-25",
+    "Other/Attachments/banner.png",
+    "Attachments/Banner.png",
+    "Other/Attachments",
+    "Home",
+    "Inbox",
+    "Finance",
+    "Education/Think Python/copilot/copilot-conversations/can_you_set_up_the_homepage_and_design_it@20260510_213959.md",
+    "Hompage.md"
+  ]
+}

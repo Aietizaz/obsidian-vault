@@ -1,0 +1,20 @@
+
+---
+
+**Problem Solving**
+The ability to formulate problems, think creatively about solutions and express a solution clearly and accurately.
+
+#### What is a Program?
+
+- A sequence of instructions that specifies how to perform a computation which could be mathematical (solving the equations), symbolic (searching and replacing text) or graphical (processing an image).
+
+##### Basic Instructions
+
+- The details appear different in various languages however the basic instructions appear in every language:
+
+1. ==Input:== Get data from keyboard, file, network or some other source.
+2. ==Output:== Display said data on the screen, save it in a file, send it over the network, etc.
+3. ==Maths:=== Perform basic mathematical operations such as + and -.
+4. ==Conditional Execution:== Check for certain conditions and run the appropriate code.
+5. ==Repetition:== Perform some action repeatedly, usually with some variation.
+
