@@ -6,7 +6,8 @@
     "banner",
     "hometitle",
     "homepage_buttons",
-    "projects"
+    "projects",
+    "centerheader"
   ],
   "accentColor": "#b7aebe"
 }

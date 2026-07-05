@@ -1,14 +1,14 @@
 
 ---
 
-**Problem Solving**
+<u>**Problem Solving**</u>
 The ability to formulate problems, think creatively about solutions and express a solution clearly and accurately.
 
-#### What is a Program?
+#### <u>What is a Program?</u>
 
 - A sequence of instructions that specifies how to perform a computation which could be mathematical (solving the equations), symbolic (searching and replacing text) or graphical (processing an image).
 
-##### Basic Instructions
+##### <u>Basic Instructions</u>
 
 - The details appear different in various languages however the basic instructions appear in every language:
 
@@ -22,3 +22,5 @@ The ability to formulate problems, think creatively about solutions and express 
 
 ###### <u>Running Python</u>
 
+- Python Interpreter
+	- A program that reads and executes Python code.

@@ -1,0 +1,10 @@
+/* Center the note title */
+.inline-title {
+  text-align: center;
+  width: 100%;
+}
+
+/* Optional: make it a little bolder */
+.inline-title {
+  font-weight: 700;
+}
