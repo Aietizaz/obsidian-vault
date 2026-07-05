@@ -9,7 +9,13 @@
   "accessibility": {
     "highTextContrast": false
   },
-  "knownTags": {},
+  "knownTags": {
+    "exercises": 2,
+    "flashcards": 5,
+    "python": 1,
+    "review": 4,
+    "thinkpython": 3
+  },
   "tagColors": {},
   "_version": 4
 }

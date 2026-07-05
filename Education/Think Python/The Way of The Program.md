@@ -1,6 +1,6 @@
 
 ---
-
+#Python #ThinkPython #Review #Flashcards 
 ##### <u>Problem Solving</u>
 
 - The ability to formulate problems, think creatively about solutions and express a solution clearly and accurately.
@@ -112,6 +112,8 @@ type(42.0)
 
 
 ##### <u>Exercises</u>
+
+#Exercises
 
 <font color="#ffff00">Exercise 1-1</font>
 1. <font color="#ffff00">In a print statement, what happens if you leave out one of the parentheses or both?</font>
