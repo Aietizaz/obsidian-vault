@@ -141,4 +141,34 @@ print(Hi)
 ```
 - NameError: name 'Hi' is not defined
 
-3. 
+3. <font color="#ffff00">You can use a minus sign to make a negative number like -2. What happens if you put a plus sign before a number? What about 2++2?</font>
+```python
++2
+```
+- Returns just 2.
+```python
+2++2
+```
+- Also simply returns the correct output of 4.
+
+4. <font color="#ffff00">In math notation, leading zeros are ok, as in 02. What happens if you try this in Python?</font>
+```python
+02
+```
+- SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers.
+```python
+0o2
+```
+- Returns 2.
+
+5. <font color="#ffff00">What happens if you have 2 values with no operator between them?</font>
+```python
+3 4
+```
+- SyntaxError: invalid syntax
+
+Exercise 1-2
+1. How many seconds are there in 42 minutes and 42 seconds?
+```python
+secs 
+```
