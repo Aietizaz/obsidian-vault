@@ -1,10 +1,10 @@
 
 ---
 
-<u>**Problem Solving**</u>
+##### **<u>Problem Solving</u>
 The ability to formulate problems, think creatively about solutions and express a solution clearly and accurately.
 
-#### <u>What is a Program?</u>
+##### <u>What is a Program?</u>
 
 - A sequence of instructions that specifies how to perform a computation which could be mathematical (solving the equations), symbolic (searching and replacing text) or graphical (processing an image).
 
@@ -24,3 +24,15 @@ The ability to formulate problems, think creatively about solutions and express 
 
 - Python Interpreter
 	- A program that reads and executes Python code.
+	- Typing python produces an output that contain information about the interpreter and the OS.
+
+```python
+python
+```
+
+```python
+Python 3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+```
+
+#####
