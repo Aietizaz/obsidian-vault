@@ -47,7 +47,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 print("Hello, World!")
 ```
 
-##### Arithmetic Operators
+##### <u>Arithmetic Operators</u>
 
 - Operators are symbols that represent computations like addition and multiplication.
 
@@ -59,7 +59,7 @@ print("Hello, World!")
 | True division  | /        | 84/2     | 42.0   |
 | Floor division | //       | 84/2     | 42     |
 | Exponentiation | **       | 6**2 + 6 | 42     |
-##### Values & Types
+##### <u>Values & Types</u>
 
 - Values are basic units that programs can work with such as a letter or number. 
 - Values can be of varying types.
@@ -78,7 +78,7 @@ type(42.0)
 
 - "class" is used as a category - a type is a category of values.
 
-##### Formal & Natural Languages
+##### <u>Formal & Natural Languages</u>
 
 - Natural Languages:
 	- Languages that people speak: English, French, Spanish, etc.
@@ -104,8 +104,15 @@ type(42.0)
 
 - Differences between Natural and Formal Languages
 	1. ==Ambiguity==
-		- Natural languages are ambigious and are handles by people usually by contextual clues and other information. Formal Languages are designed to be completely unambiguous with a statement only having one meaning regardless of context.
-	2. Redundancy
+		- Natural languages are ambiguous and are handles by people usually by contextual clues and other information. Formal Languages are designed to be completely unambiguous with a statement only having one meaning regardless of context.
+	2. ==Redundancy==
 		- Formal Languages are less redundant and more concise compared to natural which are verbose.
-	3. Literalness
-		- Natural Lan
+	3. ==Literalness==
+		- Natural Languages contain metaphors, idioms and other illogical phrases. On the other hand, formal languages are purely logical and mean exactly what they state.
+
+
+##### <u>Exercises</u>
+
+1. <font color="#ffff00">Exercise 1-1</font>
+- <font color="#ffff00">In a print statement, what happens if you leave out one of the parentheses or both?</font>
+	- 
