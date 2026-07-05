@@ -113,6 +113,32 @@ type(42.0)
 
 ##### <u>Exercises</u>
 
-1. <font color="#ffff00">Exercise 1-1</font>
-- <font color="#ffff00">In a print statement, what happens if you leave out one of the parentheses or both?</font>
-	- 
+<font color="#ffff00">Exercise 1-1</font>
+1. <font color="#ffff00">In a print statement, what happens if you leave out one of the parentheses or both?</font>
+```python
+print("Hi"
+```
+- There is no output and the interpreter expects the ending parentheses. 
+```python
+print"Hi")
+```
+- SyntaxError: unmatched ')'
+```python
+print"Hi"
+```
+- SyntaxError: Missing parantheses in call to 'print'...
+
+2. <font color="#ffff00">If you are trying to print a string, what happens if you leave out one of the quotation marks or both?</font>
+```python
+print("Hi)
+```
+```python
+print(Hi")
+```
+- SyntaxError: unterminated string literal
+```python
+print(Hi)
+```
+- NameError: name 'Hi' is not defined
+
+3. 
