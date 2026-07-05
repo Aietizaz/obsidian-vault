@@ -149,7 +149,7 @@ print(Hi)
 ```python
 2++2
 ```
-- Also simply returns the correct output of 4.
+- Also simply returns the correct output of 4. The second + is treated as a unary plus.
 
 4. <font color="#ffff00">In math notation, leading zeros are ok, as in 02. What happens if you try this in Python?</font>
 ```python
@@ -167,25 +167,29 @@ print(Hi)
 ```
 - SyntaxError: invalid syntax
 
-Exercise 1-2
-1. How many seconds are there in 42 minutes and 42 seconds?
+<font color="#ffff00">Exercise 1-2</font>
+1. <font color="#ffff00">How many seconds are there in 42 minutes and 42 seconds?</font>
 ```python
 secs = (60*42)+42
 ```
 - secs = 2562
 
-2. How many miles are there in 10 KM. (Note: 1.61 KMs in 1 Mile)
+2. <font color="#ffff00">How many miles are there in 10 KM. (Note: 1.61 KMs in 1 Mile)</font>
 ```python
 10/1.61
 ```
 - 6.21118 miles
 
-3. If you run a 10 KM race in 42 minutes and 42 seconds, what is your average pace (time per mile in minutes and seconds)? What is your average speed in miles per hour?
+3. <font color="#ffff00">If you run a 10 KM race in 42 minutes and 42 seconds, what is your average pace (time per mile in minutes and seconds)? What is your average speed in miles per hour?</font>
 ```python
 # Running 6.2 miles in 2562 seconds
 2562/6.2
 # 413.23 seconds per mile
 413.23/60
 # 6.89 mins per mile
-
+# 6 mins and 53 seconds per mile
+60/6..89
+# 8.71 miles per hour
 ```
+- Pace: 6 mins and 53 seconds per mile
+- Average speed: 8.71 miles per hour
