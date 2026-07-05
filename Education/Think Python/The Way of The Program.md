@@ -50,4 +50,11 @@ print("Hello, World!")
 ##### Arithmetic Operators
 
 - Operators are symbols that represent computations like addition and multiplication.
-- 
+
+| Addition       | +   | 40+2     | 42   |
+| -------------- | --- | -------- | ---- |
+| Subtraction    | -   | 43-1     | 42   |
+| Multiplication | *   | 6*7      | 42   |
+| True division  | /   | 84/2     | 42.0 |
+| Floor division | //  | 84/2     | 42   |
+| Exponentiation | **  | 6**2 + 6 | 42   |
