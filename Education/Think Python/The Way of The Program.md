@@ -51,10 +51,30 @@ print("Hello, World!")
 
 - Operators are symbols that represent computations like addition and multiplication.
 
-| Addition       | +   | 40+2     | 42   |
-| -------------- | --- | -------- | ---- |
-| Subtraction    | -   | 43-1     | 42   |
-| Multiplication | *   | 6*7      | 42   |
-| True division  | /   | 84/2     | 42.0 |
-| Floor division | //  | 84/2     | 42   |
-| Exponentiation | **  | 6**2 + 6 | 42   |
+| Operation      | Operator | Example  | Output |
+| -------------- | -------- | -------- | ------ |
+| Addition       | +        | 40+2     | 42     |
+| Subtraction    | -        | 43-1     | 42     |
+| Multiplication | *        | 6*7      | 42     |
+| True division  | /        | 84/2     | 42.0   |
+| Floor division | //       | 84/2     | 42     |
+| Exponentiation | **       | 6**2 + 6 | 42     |
+##### Values & Types
+
+- Values are basic units that programs can work with such as a letter or number. 
+- Values can be of varying types.
+
+| Value           | Type    |
+| --------------- | ------- |
+| "Hello, World!" | String  |
+| 42.0            | Float   |
+| 2               | Integer |
+- If unsure what type a value is, the interpreter can tell you.
+	- <font color="#00b050">Example:</font>
+```python
+type(42.0)
+```
+	 <class 'float'>
+
+- "class" is used as a category - a type is a category of values.
+
