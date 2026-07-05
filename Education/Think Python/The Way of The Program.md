@@ -170,5 +170,22 @@ print(Hi)
 Exercise 1-2
 1. How many seconds are there in 42 minutes and 42 seconds?
 ```python
-secs 
+secs = (60*42)+42
+```
+- secs = 2562
+
+2. How many miles are there in 10 KM. (Note: 1.61 KMs in 1 Mile)
+```python
+10/1.61
+```
+- 6.21118 miles
+
+3. If you run a 10 KM race in 42 minutes and 42 seconds, what is your average pace (time per mile in minutes and seconds)? What is your average speed in miles per hour?
+```python
+# Running 6.2 miles in 2562 seconds
+2562/6.2
+# 413.23 seconds per mile
+413.23/60
+# 6.89 mins per mile
+
 ```
