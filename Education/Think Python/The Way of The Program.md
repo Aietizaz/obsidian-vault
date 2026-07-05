@@ -91,8 +91,10 @@ type(42.0)
 		- Chemical formulas for structure of molecules.
 		- Programming languages to express computations.
 	- Designed by people for specific applications.
-	- Strict **syntax** rules that govern the structure of statements.
-		- 
+	- Strict **==syntax==** rules that govern the structure of statements. 2 important rules:
+		- Tokens: basic elements of the language such as words, numbers, chemical elements...
+		- Combination of tokens have to make sense and be structured correctly.
+		- Reading a sentence in English or formal language, you have to figure out the structure (this is done subconsciously for natural languages) - this is called ==**Parsing**==.
 		- <font color="#00b050">Example:</font>
 
 | Correct statement | Incorrect statement |
@@ -100,3 +102,10 @@ type(42.0)
 | 3 + 3 = 6         | 3 + = 3$6           |
 | H20               | ZZZ                 |
 
+- Differences between Natural and Formal Languages
+	1. ==Ambiguity==
+		- Natural languages are ambigious and are handles by people usually by contextual clues and other information. Formal Languages are designed to be completely unambiguous with a statement only having one meaning regardless of context.
+	2. Redundancy
+		- Formal Languages are less redundant and more concise compared to natural which are verbose.
+	3. Literalness
+		- Natural Lan
