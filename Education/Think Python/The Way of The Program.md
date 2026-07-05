@@ -18,5 +18,7 @@ The ability to formulate problems, think creatively about solutions and express 
 4. ==Conditional Execution:== Check for certain conditions and run the appropriate code.
 5. ==Repetition:== Perform some action repeatedly, usually with some variation.
 
+- The process of breaking down large, complex tasks into smaller subtasks that can be performed with one of the above basic instructions.
 
+###### Running Python
 
