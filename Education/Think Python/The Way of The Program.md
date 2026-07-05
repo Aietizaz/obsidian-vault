@@ -78,3 +78,25 @@ type(42.0)
 
 - "class" is used as a category - a type is a category of values.
 
+##### Formal & Natural Languages
+
+- Natural Languages:
+	- Languages that people speak: English, French, Spanish, etc.
+	- Not designed by people.
+	- Evolved naturally.
+
+- Formal Languages:
+	- Languages such as: 
+		- Mathematical notations to denote relationships among numbers and symbols.
+		- Chemical formulas for structure of molecules.
+		- Programming languages to express computations.
+	- Designed by people for specific applications.
+	- Strict **syntax** rules that govern the structure of statements.
+		- 
+		- <font color="#00b050">Example:</font>
+
+| Correct statement | Incorrect statement |
+| ----------------- | ------------------- |
+| 3 + 3 = 6         | 3 + = 3$6           |
+| H20               | ZZZ                 |
+
