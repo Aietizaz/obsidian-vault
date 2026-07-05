@@ -1,8 +1,9 @@
 
 ---
 
-##### **<u>Problem Solving</u>
-The ability to formulate problems, think creatively about solutions and express a solution clearly and accurately.
+##### <u>Problem Solving</u>
+
+- The ability to formulate problems, think creatively about solutions and express a solution clearly and accurately.
 
 ##### <u>What is a Program?</u>
 
@@ -35,4 +36,18 @@ Python 3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (
 Type "help", "copyright", "credits" or "license" for more information.
 ```
 
-#####
+##### <u>The First Program</u>
+
+- Print Statement:
+	- Displays the result on the screen.
+	- " " mark the beginning and end of the text to be *displayed*.**
+	- ( ) indicate that ***print*** is a function.
+	- <font color="#00b050">Example:</font>
+```python
+print("Hello, World!")
+```
+
+##### Arithmetic Operators
+
+- Operators are symbols that represent computations like addition and multiplication.
+- 
