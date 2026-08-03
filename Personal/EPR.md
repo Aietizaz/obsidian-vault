@@ -49,4 +49,11 @@ SLIDE 4
 - This is a summarised rundown of my journey here
 - In Jan 2025, I joined BAE systems and had to spend the first few months understanding the processes, standards and ways of working. Also, i was focused on building relationships with those within my team and slowly expanding outwards to other teams, essentially making my presence known
 - Starting April 2025, I began to get more involved in the actual technical aspect of the work and learning the platforms / SI in general. I spent time contributing to installations, build checks and even had the opportunity to work on the aircraft carrier. A lot of this period was learning as much as i can from the experienced engineers.
-- By September, I felt like i could work independently across the majority of the platforms and was confident to work on most of the expected integration activities. I was beginning to get a better understanding and things started to just click into place. This is when i began to help and support ne
+- By September, I felt like i could work independently across the majority of the platforms and was confident to work on most of the expected integration activities. I was beginning to get a better understanding and things started to just click into place. This is when i began to help and support new members which went towards my developing people value
+- at some point, i was provided responsibility for models, which is what we use as templates to simulate what it would be like to have hosted system vms/devices on the system, mostly used for testing and to ensure everything works as intended. I noticed our method of deployment of these virtual machines was not as efficient or consistent as it should be so i began to work on my independent project and developing a tool for Multi-VM deployment/configuration to improve consistency, reliability and efficiency
+- By April 2026, I was consistently supporting FAT on the ISEs, vulnerability assessments and participating in all Integration activities/tasks and adapting where necessary
+- And now we're here at today
+
+SLIDE 5
+
+- 
