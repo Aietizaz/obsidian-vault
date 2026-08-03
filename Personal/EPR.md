@@ -40,4 +40,13 @@ SLIDE 3
 		- More on a project i've been working on independently later
 	- System Testing
 		- Build checks to ensure functionality is as expected from a standard baseline
-		- Factory Acceptance Testing (FAT) which often happens 
+		- Factory Acceptance Testing (FAT) which often happens with a customer
+		- Vulnerability Assessments support
+	- Troubleshooting issues, the role requires a broad view of the system because an issue may come from networking, storage, configuration files, virtualisation problems or any number of possibilities
+
+SLIDE 4
+
+- This is a summarised rundown of my journey here
+- In Jan 2025, I joined BAE systems and had to spend the first few months understanding the processes, standards and ways of working. Also, i was focused on building relationships with those within my team and slowly expanding outwards to other teams, essentially making my presence known
+- Starting April 2025, I began to get more involved in the actual technical aspect of the work and learning the platforms / SI in general. I spent time contributing to installations, build checks and even had the opoprtunity to work on the aircraft carrier. A lot of this period was learning as much as i can from the expereinced engineers.
+- By september, I felt like 
