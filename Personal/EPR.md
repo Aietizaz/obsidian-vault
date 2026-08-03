@@ -37,7 +37,7 @@ SLIDE 3
 	- infrastructure support across the many platforms
 		- T45 / QEC /T26
 	- Automation 
-		- More on a project i've been working on independently later
+		- More on a project I've been working on independently later
 	- System Testing
 		- Build checks to ensure functionality is as expected from a standard baseline
 		- Factory Acceptance Testing (FAT) which often happens with a customer
@@ -48,5 +48,5 @@ SLIDE 4
 
 - This is a summarised rundown of my journey here
 - In Jan 2025, I joined BAE systems and had to spend the first few months understanding the processes, standards and ways of working. Also, i was focused on building relationships with those within my team and slowly expanding outwards to other teams, essentially making my presence known
-- Starting April 2025, I began to get more involved in the actual technical aspect of the work and learning the platforms / SI in general. I spent time contributing to installations, build checks and even had the opoprtunity to work on the aircraft carrier. A lot of this period was learning as much as i can from the expereinced engineers.
-- By september, I felt like 
+- Starting April 2025, I began to get more involved in the actual technical aspect of the work and learning the platforms / SI in general. I spent time contributing to installations, build checks and even had the opportunity to work on the aircraft carrier. A lot of this period was learning as much as i can from the experienced engineers.
+- By September, I felt like i could work independently across the majority of the platforms and was confident to work on most of the expected integration activities. I was beginning to get a better understanding and things started to just click into place. This is when i began to help and support ne
