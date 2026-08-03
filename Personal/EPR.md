@@ -78,4 +78,14 @@ SLIDE 7
 
 SLIDE 8 
 - Obvuiously, there's no way i would know everything after just 18 months and i'm the type to always want to know more when i'm interested. So these are some of the things i feel like i haven't had much of a chance with or theres a lack of in my work.
-- Starting off with software development, this is something that i was worried about a bit when i started my role since theres little to no 
+- Starting off with software development, this is something that i was worried about a bit when i started my role since theres little to no actual software development in my team. However, i plan to continue my ModelDeploy script, strengthen my knowledge of architecture and automated testing and look for more opportunities to potentially improve or automate our work.
+- Hopefully, by doing this i can retain my academic knowledge and develop meaningful tools or processes
+
+
+- Second, this is probably the hardest for most grads, leadership and ownership, of course i have my project but there aren't that many opportunities to lead for people early in their career and develop people, or inspire. You can try your best to participate and teach new members of the team for example but creating more chances is diffcult, hopefully this is a mid to long term goal as career progresses.
+- Finally, advanced problem solving, i'm pretty confident in where to look, how to analyse a problem and my though process. especially once you've been exposed to an issue once. But sometimes i come across complex problems that i don't know where to start with, i might spend a couple of hours trying to work it out but eventually seek some senior advice. which isn't bad but eventually i would want to work it out myself and i think that would just come withy experience and exposure
+
+SLIDE 9
+- I always struggle with this type of question because honestly most of the time i'm not sure.
+- But i can say in general, i'm learning a lot while in this team and believe there is still more to learn. I want to strengthen my skills as much as possible and potentially find more chances to take ownership
+- In the mid term thats when i'
