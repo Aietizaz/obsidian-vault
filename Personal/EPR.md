@@ -56,4 +56,9 @@ SLIDE 4
 
 SLIDE 5
 
+- This is one of my main projects that i have focused a lot of my time on since before Christmas.
+- The main issues with the original process was that we could only deploy one virtual machine at a time and it was quite repetitive. The process often led to inconsistent results and configuration failures which then had to be fixed, and the original was about 4000 lines in a single script making it impossible to raead, debug or extend
+- My goal was to redesign the original process as an application with a user interface so that anyone could use it, create a dynamic workflow so that editing files/directories or the script itself is kept at the bare minimum to avoid any issues, and most importantly is the parallel processing and live status reporting, basically letting multiple virtual machines to deploy at the same time and monitoring the exact stages they are at and where they fail if they do.
+- So far, I've managed to reduce the amount of manual intervention, and the overall deployment time relative to the number of parallel sessions that are run which is a variable in the script that you can change as needed
+- This project really let me be creative and add my own thoughts on something that is my own, I had something in mind and i wanted to make it work. I was also a bit hesistent in committing to it since i was worried about what would happen if i wasn't able to do it - especially since i knew little to no powershell, it took some courage to finally just focus on it and share the idea.
 - 
