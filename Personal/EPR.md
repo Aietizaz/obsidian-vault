@@ -29,4 +29,15 @@ SLIDE 3
 
 - Before getting too in depth, a little about my team and my role over the last 18 months. 
 - I work on the Integration team for Shared Infrastructure project, SI for short
-- A little sumamry 
+- A little summary, SI is an adaptable environment designed for combat systems and provides an all in one operator experience for hosted systems with a focus on resilience, efficiency and scalability
+- On a lower level, Integration is responsible for
+	- Build and release creation 
+	- installation and deployment of the software
+	- configuration management
+	- infrastructure support across the many platforms
+		- T45 / QEC /T26
+	- Automation 
+		- More on a project i've been working on independently later
+	- System Testing
+		- Build checks to ensure functionality is as expected from a standard baseline
+		- Factory Acceptance Testing (FAT) which often happens 
