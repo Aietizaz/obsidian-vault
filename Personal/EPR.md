@@ -65,4 +65,6 @@ SLIDE 5
 SLIDE 6 
 - For the second main focus of my work, i wanted to talk about ISEs, which are essentially a reduces replication of the main SI platforms that is built so it can be delivered to Hosted systems for them to test
 - The main challenges are that each hosted system might have different requirements and introduce different infrastructure, software and configuration while the main SI software and configuration cannot be applied as is from the main system because of the differences in scale
-- My contribution with these ISEs is setting them to work, meaning to install operationg systems on servers and configuring the iDRAC (remoting tool) as well as the NAS (storage). I've also changed configuration files in order for the system to work as intended. 
+- My contribution with these ISEs is setting them to work, meaning to install operating systems on servers and configuring the iDRAC (remoting tool) as well as the NAS (storage). I've also changed configuration files in order for the system to work as intended + testing the system for both the standard functionality required and expected from SI and against the requirements for the respective hosted system.
+- As we progressed through the ISEs, we started to get more efficient with resolving problems, fixing common issues and filling documentation. FAT was often successful without any major hiccups. 
+- I learnt a signifcant amount of what i know today from working on the ISEs since they always started broken in some way or another, that exposure helped me 
