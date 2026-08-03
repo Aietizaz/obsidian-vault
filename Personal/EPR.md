@@ -67,4 +67,15 @@ SLIDE 6
 - The main challenges are that each hosted system might have different requirements and introduce different infrastructure, software and configuration while the main SI software and configuration cannot be applied as is from the main system because of the differences in scale
 - My contribution with these ISEs is setting them to work, meaning to install operating systems on servers and configuring the iDRAC (remoting tool) as well as the NAS (storage). I've also changed configuration files in order for the system to work as intended + testing the system for both the standard functionality required and expected from SI and against the requirements for the respective hosted system.
 - As we progressed through the ISEs, we started to get more efficient with resolving problems, fixing common issues and filling documentation. FAT was often successful without any major hiccups. 
-- I learnt a signifcant amount of what i know today from working on the ISEs since they always started broken in some way or another, that exposure helped me 
+- I learnt a significant amount of what i know today from working on the ISEs since they always started broken in some way or another, that exposure helped me. 
+- On the right there's a little diagram with some of the segments and things that I have learnt to work with. 
+- A lot of the work on these mini systems needed collaboration, not just from within my team but other teams such as network and console, as well as the customer and the technical authorities of the projects
+- You have to adapt to the systems as needed and things change.
+
+SLIDE 7
+- This is more of an overview of things that i've worked on or have become familiar with during my time in Integration. 
+- I've worked on if not all, almost all the platforms, Services and software we commonly use - including exposure to DNS, DHCP, NTP, etc. General infrastructure stuff such as servers, storage, operating systems. Virtualisation, the tool i'm working on, VMware, hypervisors. Automation and development, reading, debugging and working with PowerShell, C# .NET. Professional and behavioural development, improving my technical confidence, communication and explaining things to people in a way that makes sense, ownership of my project, etc. 
+
+SLIDE 8 
+- Obvuiously, there's no way i would know everything after just 18 months and i'm the type to always want to know more when i'm interested. So these are some of the things i feel like i haven't had much of a chance with or theres a lack of in my work.
+- Starting off with software development, this is something that i was worried about a bit when i started my role since theres little to no 
