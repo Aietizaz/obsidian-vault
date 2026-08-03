@@ -23,4 +23,10 @@ SLIDE 2
 - I went to study Computer Science for my MSc at Cardiff University.
 - Eventually joining BAE
 
-- On a more personal level and outside of work, I have a variety of hobbies 
+- On a more personal level and outside of work, I have a variety of hobbies, reading, swimming, going to the gym, a big fan of motorcycles and working on some projects that i think are interesting in the moment like an app that recommends recipes based on your mood, energy levels and time you have
+
+SLIDE 3
+
+- Before getting too in depth, a little about my team and my role over the last 18 months. 
+- I work on the Integration team for Shared Infrastructure project, SI for short
+- A little sumamry 
