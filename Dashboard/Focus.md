@@ -1,6 +1,6 @@
 
 - Study
 - Gym
-- Organize vault
+- Home Lab
 
 ^focus

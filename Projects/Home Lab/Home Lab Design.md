@@ -1,0 +1,1 @@
+![[Home Lab Vision Infographic.png]]
